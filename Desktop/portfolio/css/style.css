@@ -1,11 +1,15 @@
 .center{
-  text-align: center;
+  text align: center;
   font-family: monospace;
   color: grey;
 }
 img{
-  width: 30%;
+  margin: 10px;
+  padding: 5px;
+  width: 92%;
   height: auto;
+  border:2px solid black;
+  float: none;
 }
 .boxmodel{
    border:2px solid black;
@@ -15,5 +19,10 @@ img{
 
 }
 .everything{
+  background-color: lightgrey;
+}
+h1{
+  text-align: center;
+  border:2px solid black;
   background-color: lightgrey;
 }
