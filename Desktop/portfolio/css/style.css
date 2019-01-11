@@ -1,4 +1,4 @@
-h1{
+.center{
   text-align: center;
   font-family: monospace;
   color: grey;
@@ -6,4 +6,14 @@ h1{
 img{
   width: 30%;
   height: auto;
+}
+.boxmodel{
+   border:2px solid black;
+   padding: 30px;
+   margin: 10px;
+   background-color: grey;
+
+}
+.everything{
+  background-color: lightgrey;
 }
