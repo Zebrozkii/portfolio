@@ -1,21 +1,21 @@
 .center{
   text align: center;
   font-family: monospace;
-  color: grey;
+  color: white;
 }
 img{
   margin: 10px;
   padding: 5px;
   width: 92%;
   height: auto;
-  border:2px solid black;
+  border:1px solid black;
   float: none;
 }
 .boxmodel{
-   border:2px solid black;
+   border:1px solid black;
    padding: 30px;
    margin: 10px;
-   background-color: grey;
+   background-color: white;
 
 }
 .everything{
