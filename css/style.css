@@ -32,3 +32,18 @@ h1{
 .boxmodel li {
   color:darkblue;
 }
+h4{
+  text-align: center;
+}
+.about-me-hid{
+  display: none;
+}
+.background-hiding{
+  display: none;
+}
+.clickable{
+  cursor: pointer;
+}
+.clickable1{
+  cursor: pointer;
+}
