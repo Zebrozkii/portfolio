@@ -9,7 +9,8 @@
 _{This website is used to show off the important skills i acquired and things i like to do and how i spend my time while showing how i made the website all by myself }_
 
 ## Setup/Installation Requirements
-
+_{clone this repository,open the index.html and see the Portfolio.}_
+_{or}_
 _{The webpage is currently live at this link https://github.com/Zebrozkii/portfolio}_
 
 ## Known Bugs
