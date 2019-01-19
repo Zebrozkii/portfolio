@@ -10,7 +10,7 @@ _{This website is used to show off the important skills i acquired and things i 
 
 ## Setup/Installation Requirements
 
-_{click link}_
+_{The webpage is currently live at this link https://github.com/Zebrozkii/portfolio}_
 
 ## Known Bugs
 
